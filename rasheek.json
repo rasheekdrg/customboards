@@ -2,14 +2,14 @@
   "packages":
   [
     {
-      "name": "rasheek",
+      "name": "rasheek-boards1",
       "maintainer": "Rasheek",
       "websiteURL": "https://github.com/rasheekdrg/customboards/",
-      "email" : "techsupport@localhost",
+      "email" : "techsupport@del9.biz",
       "platforms":
       [
         {
-          "name": "Rasheek's Special Board Collection",
+          "name": "Rasheek Boards Mark 1",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
